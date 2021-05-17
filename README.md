@@ -2,11 +2,11 @@
 Utilities used by my other projects
 
 
-# MapFinder:
+* ## MapFinder:
 Finds any kind of item on a map/unordered_map container. Throws std::runtime_error if not found
 
-# StringUtils:
+* ## StringUtils:
 trim, getTextBetween (tokens), stringFinder, etc
 
-# TemplateUtils:
+* ## TemplateUtils:
 Convert values from string, emplace values on containers (deque, vector, list), CSV (comma separated values) parsing, etc
