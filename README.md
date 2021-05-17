@@ -1,6 +1,7 @@
 # myoga-utils
 Utilities used by my other projects
 
+
 # MapFinder:
 Finds any kind of item on a map/unordered_map container. Throws std::runtime_error if not found
 
